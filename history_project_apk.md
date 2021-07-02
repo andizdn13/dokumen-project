@@ -6,5 +6,6 @@
 - no hp muncul saat register  ( ga jadi karena udah ada di user profile )
 - reconfirm password saat login .
 - welcome screen .
+- harga di menu katalog di hilangkan 
 
 
