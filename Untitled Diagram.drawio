@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T02:20:41.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Y8A3J5FMrKisPYsTTXYO" version="24.6.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-27T02:28:43.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="ERbAW36V5jpzH8E4AfSz" version="24.6.3" type="github" pages="2">
   <diagram name="Page-1" id="HTOBhEPv5EED7RKuIUug">
     <mxGraphModel dx="1136" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,9 +144,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x32S3JoWm55tmrQR0gKk-35" value="End" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="wbKQLq1g4pR0y1HiL2Uk-2">
-          <mxGeometry x="72" y="541" width="70" height="30" as="geometry" />
+          <mxGeometry x="70" y="541" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x32S3JoWm55tmrQR0gKk-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.517;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wbKQLq1g4pR0y1HiL2Uk-2" source="x32S3JoWm55tmrQR0gKk-31" target="x32S3JoWm55tmrQR0gKk-35">
+        <mxCell id="x32S3JoWm55tmrQR0gKk-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.908;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wbKQLq1g4pR0y1HiL2Uk-2" source="x32S3JoWm55tmrQR0gKk-31" target="x32S3JoWm55tmrQR0gKk-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="505" as="sourcePoint" />
             <mxPoint x="-30" y="455" as="targetPoint" />
@@ -178,7 +178,7 @@
           <mxGeometry x="85" y="520" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x32S3JoWm55tmrQR0gKk-38" value="Faktur Penjualan" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="wbKQLq1g4pR0y1HiL2Uk-10">
-          <mxGeometry x="67.5" y="425" width="105" height="65" as="geometry" />
+          <mxGeometry x="60" y="425" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="x32S3JoWm55tmrQR0gKk-40" value="Melakuakan Pembayaran" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="wbKQLq1g4pR0y1HiL2Uk-10">
           <mxGeometry x="50" y="222" width="140" height="50" as="geometry" />
@@ -218,7 +218,7 @@
           <mxGeometry x="40" y="335" width="130" height="55" as="geometry" />
         </mxCell>
         <mxCell id="x32S3JoWm55tmrQR0gKk-6" value="Faktur Penjualan" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="wbKQLq1g4pR0y1HiL2Uk-21">
-          <mxGeometry x="52" y="425" width="105" height="65" as="geometry" />
+          <mxGeometry x="40" y="425" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="x32S3JoWm55tmrQR0gKk-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wbKQLq1g4pR0y1HiL2Uk-21" source="x32S3JoWm55tmrQR0gKk-3" target="x32S3JoWm55tmrQR0gKk-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -256,7 +256,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x32S3JoWm55tmrQR0gKk-21" value="Laporan General Kasir" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="wbKQLq1g4pR0y1HiL2Uk-29">
-          <mxGeometry x="52.5" y="467" width="105" height="65" as="geometry" />
+          <mxGeometry x="40" y="467" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="x32S3JoWm55tmrQR0gKk-26" value="Jurnal Cash in / out" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="wbKQLq1g4pR0y1HiL2Uk-29">
           <mxGeometry x="40" y="283" width="130" height="47" as="geometry" />
